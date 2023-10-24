@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-    name: books-audioengine-ws-configmap_v2
+    name: books-audioengine-ws-configmap-v2
     namespace: application
 data:
    TOGGLES: "false"
