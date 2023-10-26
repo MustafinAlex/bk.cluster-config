@@ -4,4 +4,4 @@ metadata:
     name: books-audioengine-ws-configmap-v2
     namespace: application
 data:
-   TOGGLES: "false"
+   TOGGLES: "true"
