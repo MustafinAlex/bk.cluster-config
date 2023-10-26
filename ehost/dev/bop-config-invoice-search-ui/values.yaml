@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+    name: bop-config-invoice-search-ui-values
+    namespace: application
+data:
+  replicaCount: 1
