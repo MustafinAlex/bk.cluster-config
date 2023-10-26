@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+    name: books-audioengine-ws-configmap-v3
+    namespace: application
+data:
+   TEST: "true"
