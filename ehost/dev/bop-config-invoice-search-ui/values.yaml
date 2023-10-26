@@ -4,4 +4,5 @@ metadata:
     name: bop-config-invoice-search-ui-values
     namespace: application
 data:
-  replicaCount: 1
+  values.yaml: |
+    {replicaCount: 1}
