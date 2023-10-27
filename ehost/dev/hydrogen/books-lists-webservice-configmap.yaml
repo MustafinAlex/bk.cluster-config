@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-    name: books-lists-webservice-configmap
-    namespace: application
-data:
-  STORE: books
-  ONLY: books
